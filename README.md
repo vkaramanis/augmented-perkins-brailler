@@ -1,4 +1,4 @@
-# Augmented-Perkins-Brailler
+# Augmented Perkins Brailler
 
 A module for Perkins Brailler where it spells out the typed letters.
 
